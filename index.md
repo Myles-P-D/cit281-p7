@@ -2,7 +2,7 @@
 
 ## Outcome:
    
-This project consisted of creating the GitHub page this is viewd from () as a portfolio for the cit minor.   
+This project consisted of creating the GitHub page this is viewd from *[https://uo-cit-myles-p-d.github.io/cit-minor/](https://uo-cit-myles-p-d.github.io/cit-minor/)* as a portfolio for the cit minor.   
 This involved me cloning repositorys to my system for every lab and project from the term and pushing all of my code and images to GitHub.   
 Finally I have consolidated this into a GitHub page portfolio with links and brief descriptions of every project.   
 
